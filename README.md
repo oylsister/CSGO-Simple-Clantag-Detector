@@ -1,4 +1,4 @@
-# CSGO Clantag Detector
+# [CSGO/CSS?] Simple Clantag Detector
 
 ## Current Version 1.1.0
 
